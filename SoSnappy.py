@@ -1,3 +1,16 @@
+'''
+----------------------------
+    
+    Written By Zachary Collins
+    August 2015
+    
+    dumpstertree.com
+    dumpstertree@gmail.com
+    @dumpstertree
+    
+----------------------------
+'''
+
 import maya.cmds as cmds
 import maya.mel as mel
 import random
